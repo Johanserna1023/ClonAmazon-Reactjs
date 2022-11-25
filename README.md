@@ -1,3 +1,5 @@
+![Captura de pantalla 1](https://user-images.githubusercontent.com/93808275/204048457-9e603b83-3032-4ca8-af7b-7f212c4b9a56.png)
+![Captura de pantalla2](https://user-images.githubusercontent.com/93808275/204048459-788d7755-97ae-42cb-9d13-e5c2d4d7e06f.png)
 # Amazon Clone
 
 Este proyecto es un clon del sitio web de Amazon. Alojado en Firebase en https://clone-27ad8.web.app/
